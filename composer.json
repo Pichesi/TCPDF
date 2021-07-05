@@ -1,6 +1,6 @@
 {
   "name": "pichesi/tcpdf-php8",
-  "version": "7.0.0",
+  "version": "7.0.0-beta",
   "homepage": "http://www.tcpdf.org/",
   "type": "library",
   "description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
