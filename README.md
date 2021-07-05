@@ -1,3 +1,6 @@
+# README
+Actually, just changed "composer.json" to change requirements to php8 and we will update code with fixing bugs
+
 # TCPDF
 *PHP PDF Library*
 
