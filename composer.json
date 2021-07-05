@@ -1,5 +1,5 @@
 {
-  "name": "tecnickcom/tcpdf",
+  "name": "pichesi/tcpdf-php8",
   "version": "6.4.1",
   "homepage": "http://www.tcpdf.org/",
   "type": "library",
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.0"
+    "php": "^8.0"
   },
   "autoload": {
     "classmap": [
